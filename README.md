@@ -1,6 +1,7 @@
-# This team hasn't started yet...
+# Project E
 
-Check back later!
-
-**Please read `tasks.md` to start your work.**
- 
+## Introduction
+Our teammates will finish all the tasks in issue directory in order to build a usable
+Git repository with nice design on structure.
+## Code
+## Contributors
