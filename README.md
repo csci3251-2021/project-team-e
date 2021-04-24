@@ -1,6 +1,4 @@
-# This team hasn't started yet...
-
-Check back later!
-
-**Please read `tasks.md` to start your work.**
- 
+{% for student in site.stu %}
+  {{ student.image }} @{{ student.user }} ({{ student.name }})\
+  {{ student.content }}
+{% endfor %}
