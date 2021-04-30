@@ -7,6 +7,6 @@ Git repository with nice design on structure.
 
 ## Contributors
 {% for student in site.stu %}
-  {{ student.image }} <a href= "http://github.com/{{ student.user }}">@{{ student.user }}</a> ({{ student.name }})\
+  ![Profile Picture]({{ student.image }}) <a href= "http://github.com/{{ student.user }}">@{{ student.user }}</a> ({{ student.name }})
   {{ student.content }}
 {% endfor %}
