@@ -15,3 +15,6 @@ Git repository with nice design on structure.
   ![Profile Picture]({{ student.image }}) <a href= "http://github.com/{{ student.user }}">@{{ student.user }}</a> ({{ student.name }})
   {{ student.content }}
 {% endfor %}
+
+
+Last updated: {{ site.time }}
