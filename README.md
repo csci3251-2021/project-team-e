@@ -16,5 +16,5 @@ Git repository with nice design on structure.
   {{ student.content }}
 {% endfor %}
 
-## Last updated time
-{{ site.time }}
+---
+Last updated: {{ site.time }}
